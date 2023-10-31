@@ -26,7 +26,13 @@ Enjoy generating QR codes quickly and effortlessly with this Python script!
 
 ## Usage Examples
 
-Here are some examples:
+Here are some examples:  
+1. [Simple QRCode](https://github.com/Sivaraghavi/QRCode_Python_Project-/blob/main/Github_simple.png?raw=true)
+2. [Color Size Customised QRCode](https://github.com/Sivaraghavi/QRCode_Python_Project-/blob/main/Github_color_size_customise.jpg?raw=true)
+3. [Color Customised QRCode](https://github.com/Sivaraghavi/QRCode_Python_Project-/blob/main/Github_color_customised.png?raw=true)
+<div align="center">
+    <img src="https://github.com/Sivaraghavi/QRCode_Python_Project-/blob/main/Github_color_customised.png?raw=true" alt="Color Customised QRCode">
+</div>
 
 
 ## Requirements
